@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+<body>
+<style>
+.a1 {
+color: red;
+}
+</style>
+<p class="a1">GEPRENKT HAHA!</p>
+</body>
+</html>
